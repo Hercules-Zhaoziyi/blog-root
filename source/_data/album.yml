@@ -1,0 +1,72 @@
+- class_name: 世界各地夕阳与风景
+  path_name: /wordScenery
+  type: 2
+  description: 因为到不了世界各地，所以请网友们发来了各地的夕阳与风景🌇。
+  cover: https://bu.dusays.com/2023/04/09/64329399d1175.jpg
+  top_background: https://bu.dusays.com/2023/06/30/649e546ada7dd.webp
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  album_list:
+    - date: 2023/4/15 01:00:00
+      content: 重庆的一角。
+      address: 重庆市北碚区
+      from: 再吃一口就减肥
+      image:
+        - https://img01.anheyu.com/useruploads/224/2023/07/23/64bc86ae35f52.jpg
+        - https://img01.anheyu.com/useruploads/224/2023/07/23/64bc88f27ec9e.jpg
+        - https://img01.anheyu.com/useruploads/224/2023/07/23/64bc88fd2408e.jpg
+        - https://s1.ax1x.com/2023/07/21/pCbPi26.jpg
+        - https://img01.anheyu.com/useruploads/224/2023/07/23/64bc88f59bda5.jpg
+        - https://img01.anheyu.com/useruploads/224/2023/07/23/64bc86b3a545c.jpg
+        - https://img01.anheyu.com/useruploads/224/2023/07/23/64bc86ae35e6c.jpg
+        - https://img01.anheyu.com/useruploads/224/2023/07/23/64bc88f7b30a8.jpg
+        - https://img01.anheyu.com/useruploads/224/2023/07/23/64bc88f9970c1.jpg
+    - date: 2022-10-25
+      content: 慢品人间火色，闲观人间岁长。
+      address: 当然是美丽家乡
+      from: 慢品人间火色，闲观人间岁长。
+      image:
+        - https://s1.ax1x.com/2023/07/21/pCbPErD.jpg
+        - https://s1.ax1x.com/2023/07/21/pCbPFxK.jpg
+        - https://s1.ax1x.com/2023/07/21/pCbPCP1.jpg
+
+    - date: 2013-07-26
+      content: 千峰之巅，万水之源。
+      address: 拉萨之行
+      from: 千峰之巅，万水之源。
+      image:
+        - https://s1.ax1x.com/2023/07/21/pCbnd76.jpg
+        - https://s1.ax1x.com/2023/07/21/pCbna0x.jpg
+        - https://s1.ax1x.com/2023/07/21/pCbnUn1.jpg
+        - https://s1.ax1x.com/2023/07/21/pCbntXR.jpg
+        - https://s1.ax1x.com/2023/07/21/pCbnYc9.jpg
+
+- class_name: 我的日常
+  path_name: /dailyPhoto
+  type: 1
+  description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
+  cover: https://img01.anheyu.com/useruploads/224/2023/07/23/64bc84982f23d.jpg
+  album_list:
+    - date: 2022-10-24
+      content: 搞机达人
+      image:
+        - https://s1.ax1x.com/2023/07/21/pCbiy1P.jpg
+
+    - date: 2022-04-12
+      content: My 神光棒
+      image:
+        - https://s1.ax1x.com/2023/07/21/pCbGP7d.jpg
+
+    - date: 2021-12-28
+      content: 校园风景
+      image:
+        - https://s1.ax1x.com/2023/07/21/pCbGC0H.jpg
+        - https://s1.ax1x.com/2023/07/21/pCbCLvT.jpg
+
+    - date: 2023-07-19
+      content: 吃瓜
+      image:
+        - https://img01.anheyu.com/useruploads/224/2023/07/23/64bc84982f23d.jpg
