@@ -6,7 +6,7 @@ tags:
   - abbrlink
   - 前端
 categories: 前端开发
-cover: 'https://img01.anheyu.com/useruploads/224/2023/07/22/64bbe8681bec5.png'
+cover: https://img01.anheyu.com/useruploads/224/2023/07/22/64bbf4cd60f17.jpg
 abbrlink: a1e8a28a
 date: 2023-07-22 22:25:36
 ---
